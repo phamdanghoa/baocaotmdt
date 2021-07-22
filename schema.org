@@ -1,0 +1,56 @@
+<script type="application/ld+json">{
+	"@context": "http://schema.org/MobilePhoneStore",
+  	"@type": "Cell Phone Store",
+
+	"url": "https://posphone.000webhostapp.com/",
+	"logo": "https://posphone.000webhostapp.com/images/logo1.png",
+    "image":"https://gtvseo.com/wp-content/uploads/2017/01/GTV-SEO-logo--300x225.jpg",
+    "priceRange":"1000$-30000$",
+	"hasMap": "https://www.google.com/maps/place/GTV+SEO/@10.830954,106.679629,15z/data=!4m5!3m4!1s0x0:0x69f7702f0b2059b0!8m2!3d10.830954!4d106.679629?dg=dbrw&newdg=1",	
+	"email": "phamdanghoa040500@gmail.com			",
+    "founder": "Dang Hoa",
+  	"address": {
+    	"@type": "PostalAddress",
+    	"addressLocality": "Gò Vấp",
+        "addressCountry": "VIỆT NAM",
+    	"addressRegion": "Hồ Chí Minh",
+    	"postalCode":"700000",
+    	"streetAddress": "590/12 Phan Văn Trị Phường 7, Gò Vấp, Phường 7, Gò Vấp, Hồ Chí Minh 700000"
+  	},
+  	"description": "Công ty bán điện máy giá rẻ nhất thị trường ",
+	"name": "SHOP ONLINE",
+  	"telephone": "070-711-6820",
+  	"openingHoursSpecification": [
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:30",
+    "closes": "18:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Saturday"
+    ],
+    "opens": "8:30",
+    "closes": "11:30"
+  }
+],
+  	"geo": {
+    	"@type": "GeoCoordinates",
+   	"latitude": "10.830954",
+    	"longitude": "106.679629"
+ 		}, 			
+         
+ 
+  	"sameAs" : [ "https://www.facebook.com/cuahangonlinemocua24h",
+    	
+        "https://www.facebook.com/profile.php?id=100007588816066"]
+	}</script>
+	

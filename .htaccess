@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule "^([0-9]+)/([a-zA-Z0-9 % -]+)$"  "?quanly=chitietsp&id=$1&ten_sp=$2"
+RewriteRule "^danh-muc/([0-9]+)/([a-zA-Z0-9 % -]+)$"  "?quanly=danhmuc&id=$1$ten_dm=$2"
